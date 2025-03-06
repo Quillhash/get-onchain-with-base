@@ -182,58 +182,55 @@ Whether you're a developer, researcher, or just curious about Base, this README 
 
 ### **NFTs**
 
-- {Anotherblock}[https://anotherblock.io/]: anotherblock is empowering the emotional and financial connection between creators and consumers. Collectors own future streaming royalties of high-end tracks and earn royalties when they stream.  
-- {Bonfire}[https://www.bonfire.xyz/]: Bonfire is a no-code website builder and community platform for web3 creators. Bonfire’s toolkit lets creators design custom drops, and offer fans exclusive content and gated experiences on their own branded website.  
-- {Crossmint}[https://crossmint.com/]: Enterprise-grade infrastructure to build NFT use cases accessible to everyone. Including NFT wallets-as-a-service, minting, payments, and token-gating APIs.  
-- {Decent}[https://decent.xyz/]: Cross-chain transactions, meet one-tap payments. Serve customers of every stripe with The Box, empowering them with automatic swaps, built‑in bridging, and seamless secondary sales.  
-- {Guild}[https://guild.xyz/]: Guild is an automation platform for onboarding Web3 communities, it can identify NFT holders, active developers, social media influencers and any other custom categories of community members based on their Guild account.  
-- {Highlight}[https://www.highlight.xyz/]: Highlight is a platform for making art and culture on the blockchain.  
-- {Indelible Labs}[https://indelible.xyz/]: We are making onchain NFT collections easy and affordable to create.  
-- {Manifold}[https://studio.manifold.xyz/]: Manifold Studio allows you to build your own personalized web3 creative platform and sell digital goods (NFTs). The tools allow for the highest level of provenance and complete control of your work.  
-- {Mint.fun}[https://mint.fun/feed/trending]: The fastest, safest, and most rewarding way to mint all the top new NFT projects.  
-- {Nouns Builder}[https://nouns.build/]: Governed by BuilderDAO, Nouns Builder is a tool lets you create Nounish DAOs easily. Build and empower your community with onchain governance and treasury.  
-- {OpenSea}[https://opensea.io/]: OpenSea is a peer-to-peer marketplace for NFTs, rare digital items, and crypto collectibles. Buy, sell, auction, and discover rare digital art, blockchain game items, and more.  
-- {Reservoir}[https://reservoir.tools/]: The most powerful tools to build buying & selling into your app - access NFT data, create, store, and fill NFT orders.  
-- {Showtime}[https://showtime.xyz/]: Showtime lets creators share exclusive updates to their fans. Fans access never-seen-before content and earn a digital collectible they can showcase on Showtime and elsewhere.  
-- {Unlock Protocol}[https://unlock-protocol.com/]: Unlock is an open-source, collectively owned, community-governed, peer-to-peer system that creates time-based memberships.  
-- {Zora}[https://zora.co/]: ZORA is a universal media registry protocol. It’s a way for creators to publish creative media, earn money on their work, and have others build and share what they create.  
+- [Anotherblock](https://anotherblock.io/): anotherblock is empowering the emotional and financial connection between creators and consumers. Collectors own future streaming royalties of high-end tracks and earn royalties when they stream.  
+- [Bonfire](https://www.bonfire.xyz/): Bonfire is a no-code website builder and community platform for web3 creators. Bonfire’s toolkit lets creators design custom drops, and offer fans exclusive content and gated experiences on their own branded website.  
+- [Crossmint](https://crossmint.com/): Enterprise-grade infrastructure to build NFT use cases accessible to everyone. Including NFT wallets-as-a-service, minting, payments, and token-gating APIs.  
+- [Decent](https://decent.xyz/): Cross-chain transactions, meet one-tap payments. Serve customers of every stripe with The Box, empowering them with automatic swaps, built‑in bridging, and seamless secondary sales.  
+- [Guild](https://guild.xyz/): Guild is an automation platform for onboarding Web3 communities, it can identify NFT holders, active developers, social media influencers and any other custom categories of community members based on their Guild account.  
+- [Highlight](https://www.highlight.xyz/): Highlight is a platform for making art and culture on the blockchain.  
+- [Indelible Labs](https://indelible.xyz/): We are making onchain NFT collections easy and affordable to create.  
+- [Manifold](https://studio.manifold.xyz/): Manifold Studio allows you to build your own personalized web3 creative platform and sell digital goods (NFTs). The tools allow for the highest level of provenance and complete control of your work.  
+- [Mint.fun](https://mint.fun/feed/trending): The fastest, safest, and most rewarding way to mint all the top new NFT projects.  
+- [Nouns Builder](https://nouns.build/): Governed by BuilderDAO, Nouns Builder is a tool lets you create Nounish DAOs easily. Build and empower your community with onchain governance and treasury.  
+- [OpenSea](https://opensea.io/): OpenSea is a peer-to-peer marketplace for NFTs, rare digital items, and crypto collectibles. Buy, sell, auction, and discover rare digital art, blockchain game items, and more.  
+- [Reservoir](https://reservoir.tools/): The most powerful tools to build buying & selling into your app - access NFT data, create, store, and fill NFT orders.  
+- [Showtime](https://showtime.xyz/): Showtime lets creators share exclusive updates to their fans. Fans access never-seen-before content and earn a digital collectible they can showcase on Showtime and elsewhere.  
+- [Unlock Protocol](https://unlock-protocol.com/): Unlock is an open-source, collectively owned, community-governed, peer-to-peer system that creates time-based memberships.  
+- [Zora](https://zora.co/): ZORA is a universal media registry protocol. It’s a way for creators to publish creative media, earn money on their work, and have others build and share what they create.  
 
 ### **Onramps**  
 
-- {Coinbase Pay}[https://www.coinbase.com/cloud/products/pay-sdk]: Let your users buy or transfer digital assets with the most trusted name in crypto.  
-- {Moso}[https://moso.xyz/]: Shop online at one of the 2,500 supported Moso stores and earn the crypto of your choice!  
-- {Onboard}[https://onboard.xyz/]: The simplest and most secure self-custody wallet to convert digital assets to local currency in minutes and spend your crypto anytime, anywhere.  
-- {Onramp Money}[https://onramp.money/]: Onramp.money is a convenient & secure way to convert your FIAT to Web3 money in <60s! We allow your users to buy & sell digital assets with lowest processing fees. Onramp.money can be easily integrated with your global decentralized application (dApp) to smoothly onboard users to purchase multiple digital assets across chains.  
-- {Privy}[https://www.privy.io/]: Privy is a simple library to onboard all your users to web3, with embedded wallets for web3 newcomers, reliable connectors for web3 natives, and powerful user management.  
-- {Transak}[https://transak.com/]: Transak is a global web3 payment and onboarding infrastructure provider, facilitating seamless transitions between traditional finance and crypto assets.  
+- [Coinbase Pay](https://www.coinbase.com/cloud/products/pay-sdk): Let your users buy or transfer digital assets with the most trusted name in crypto.  
+- [Moso](https://moso.xyz/): Shop online at one of the 2,500 supported Moso stores and earn the crypto of your choice!  
+- [Onboard](https://onboard.xyz/): The simplest and most secure self-custody wallet to convert digital assets to local currency in minutes and spend your crypto anytime, anywhere.  
+- [Onramp Money](https://onramp.money/): Onramp.money is a convenient & secure way to convert your FIAT to Web3 money in <60s! We allow your users to buy & sell digital assets with lowest processing fees. Onramp.money can be easily integrated with your global decentralized application (dApp) to smoothly onboard users to purchase multiple digital assets across chains.  
+- [Privy](https://www.privy.io/): Privy is a simple library to onboard all your users to web3, with embedded wallets for web3 newcomers, reliable connectors for web3 natives, and powerful user management.  
+- [Transak](https://transak.com/): Transak is a global web3 payment and onboarding infrastructure provider, facilitating seamless transitions between traditional finance and crypto assets.  
 
 ### **Social**  
 
-- {Blackbird}[https://blackbird.xyz/]: Blackbird is a loyalty and membership platform built for the world's most exciting restaurants.  
-- {CyberConnect}[https://cyberconnect.me/]: CyberConnect creates long-lasting onchain connections through the power of its network. Developers use its protocol to build innovative social applications where users own their identities and data, while creators can grow their audiences in a fairer, more direct, and decentralized environment.  
-- {FWB}[https://fest.fwb.help/]: Friends With Benefits (FWB) is a community of builders, creatives, and investors who believe in the power of social tokens and the communities they create.  
-- {Galxe}[https://galxe.com/]: Galxe is the leading platform for building web3 community. With over 11 million active users to date, Galxe has propelled the growth of Optimism, Polygon, Arbitrum, and more than 2800 partners with reward-based loyalty programs.  
-- {Layer3}[https://layer3.xyz/]: Discover the world of crypto like never before with Layer3. Our interactive Quests make learning and exploring web3 fun, engaging, and rewarding.  
-- {Mirror}[https://www.mirror.xyz/]: Built on web3 for web3, Mirror’s robust publishing platform pushes the boundaries of writing online—whether it’s the next big white paper or a weekly community update.  
-- {OAK}[https://oak.community/]: OAK is a community currency for the People of Oakland.  
-- {Tally}[https://www.tally.xyz/]: Tally powers the largest DAOs in the Ethereum ecosystem. With Tally, you can decentralize your Protocol, project, L2 and more. Build on Tally for a robust decentralized ecosystem of tooling.  
-
----
+- [Blackbird](https://blackbird.xyz/): Blackbird is a loyalty and membership platform built for the world's most exciting restaurants.  
+- [CyberConnect](https://cyberconnect.me/): CyberConnect creates long-lasting onchain connections through the power of its network. Developers use its protocol to build innovative social applications where users own their identities and data, while creators can grow their audiences in a fairer, more direct, and decentralized environment.  
+- [FWB](https://fest.fwb.help/): Friends With Benefits (FWB) is a community of builders, creatives, and investors who believe in the power of social tokens and the communities they create.  
+- [Galxe](https://galxe.com/): Galxe is the leading platform for building web3 community. With over 11 million active users to date, Galxe has propelled the growth of Optimism, Polygon, Arbitrum, and more than 2800 partners with reward-based loyalty programs.  
+- [Layer3](https://layer3.xyz/): Discover the world of crypto like never before with Layer3. Our interactive Quests make learning and exploring web3 fun, engaging, and rewarding.  
+- [Mirror](https://www.mirror.xyz/): Built on web3 for web3, Mirror’s robust publishing platform pushes the boundaries of writing online—whether it’s the next big white paper or a weekly community update.  
+- [OAK](https://oak.community/): OAK is a community currency for the People of Oakland.  
+- [Tally](https://www.tally.xyz/): Tally powers the largest DAOs in the Ethereum ecosystem. With Tally, you can decentralize your Protocol, project, L2 and more. Build on Tally for a robust decentralized ecosystem of tooling.  
 
 ### **Wallets**  
 
-- {Beam}[https://beam.eco/]: Beam is a self-custody payments wallet for the mainstream — no download or signup required. It's the easiest way on the planet to send money. Beam works with USDC and ECO (eco.com).  
-- {Brave}[https://brave.com/]: Brave is on a mission to protect your privacy online. We make a suite of internet privacy tools—including our browser and search engine—that shield you from the ads, trackers, and other creepy stuff trying to follow you across the web.  
-- {Coinbase}[https://www.coinbase.com/]: Coinbase is a secure online platform for buying, selling, transferring, and storing cryptocurrency.  
-- {Coinbase Wallet}[https://www.coinbase.com/wallet]: The easiest and most secure crypto wallet and dapp browser. Your gateway to the decentralized web.  
-- {Exodus}[https://www.exodus.com/]: Exodus lets users secure, manage, and swap cryptocurrencies like Bitcoin, Ethereum, & more across 10,000+ asset pairs from a beautiful, easy-to-use wallet. Available for desktop, mobile, and browser.  
-- {Frame}[https://frame.sh/]: System-wide web3 wallet for macOS, Windows, and Linux. Seamlessly access your web3 accounts from any browser, command-line, or native dapp.  
-- {Rabby Wallet}[https://rabby.io/]: The game-changing wallet for Ethereum and all EVM chains.  
-- {Rainbow Wallet}[https://rainbow.me/]: Rainbow is a fun, simple, and secure way to get started with crypto and explore the new world of Ethereum. You can use Rainbow to purchase, manage, and display Ethereum-based assets.  
-- {Safe Wallet}[https://safe.global/]: Safe is the most trusted platform to manage digital assets on Ethereum.  
-- {Sequence}[https://sequence.xyz/]: Sequence is the all-in-one developer platform + smart wallet that makes building web3 games and applications easy.  
-- {Trust Wallet}[https://trustwallet.com/]: Trust Wallet is a multi-chain, self-custody wallet with 60M+ users. Supporting 70+ chains & 8M+ digital assets; you can manage crypto & NFTs, explore DeFi and connect to dApps safely & securely.  
-
+- [Beam](https://beam.eco/): Beam is a self-custody payments wallet for the mainstream — no download or signup required. It's the easiest way on the planet to send money. Beam works with USDC and ECO (eco.com).  
+- [Brave](https://brave.com/): Brave is on a mission to protect your privacy online. We make a suite of internet privacy tools—including our browser and search engine—that shield you from the ads, trackers, and other creepy stuff trying to follow you across the web.  
+- [Coinbase](https://www.coinbase.com/): Coinbase is a secure online platform for buying, selling, transferring, and storing cryptocurrency.  
+- [Coinbase Wallet](https://www.coinbase.com/wallet): The easiest and most secure crypto wallet and dapp browser. Your gateway to the decentralized web.  
+- [Exodus](https://www.exodus.com/): Exodus lets users secure, manage, and swap cryptocurrencies like Bitcoin, Ethereum, & more across 10,000+ asset pairs from a beautiful, easy-to-use wallet. Available for desktop, mobile, and browser.  
+- [Frame](https://frame.sh/): System-wide web3 wallet for macOS, Windows, and Linux. Seamlessly access your web3 accounts from any browser, command-line, or native dapp.  
+- [Rabby Wallet](https://rabby.io/): The game-changing wallet for Ethereum and all EVM chains.  
+- [Rainbow Wallet](https://rainbow.me/): Rainbow is a fun, simple, and secure way to get started with crypto and explore the new world of Ethereum. You can use Rainbow to purchase, manage, and display Ethereum-based assets.  
+- [Safe Wallet](https://safe.global/): Safe is the most trusted platform to manage digital assets on Ethereum.  
+- [Sequence](https://sequence.xyz/): Sequence is the all-in-one developer platform + smart wallet that makes building web3 games and applications easy.  
+- [Trust Wallet](https://trustwallet.com/): Trust Wallet is a multi-chain, self-custody wallet with 60M+ users. Supporting 70+ chains & 8M+ digital assets; you can manage crypto & NFTs, explore DeFi and connect to dApps safely & securely.  
 ---
 
 
