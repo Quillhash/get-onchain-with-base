@@ -4,9 +4,15 @@ Welcome to **Get Onchain with Base**— your go-to guide for getting started wit
 
 Whether you're a developer, researcher, or just curious about Base, this README has all the resources you need to start building, learning, and engaging with the Base ecosystem.  
 
+---
+## 🌍 Ecosystem Map
+
+![Base Ecosystem Map](D:\get-onchain-with-base\Base Ecosystem Map.png)
+
+---
 
 
-## 🌍 Socials  
+## Socials  
 
 - [Base.org](https://base.org/)  
 - [Base Blog](https://base.mirror.xyz/)  
@@ -19,7 +25,7 @@ Whether you're a developer, researcher, or just curious about Base, this README 
 - [Base Status](https://status.base.org/)  
 - [Base X](https://x.com/buildonbase)  
 
-
+---
 
 ## 📖 Blogs  
 
@@ -35,7 +41,7 @@ Whether you're a developer, researcher, or just curious about Base, this README 
 - [Inside the Infrastructure: Exploring Node Providers on Base](https://www.quillaudits.com/blog/blockchain/node-providers-on-base)  
 - [Behind the Scenes: Navigating Blockchain Explorers on Base](https://www.quillaudits.com/blog/blockchain/blockchain-explorers-on-base)  
 
-
+---
 
 ## 🎥 Videos  
 
@@ -48,7 +54,7 @@ Whether you're a developer, researcher, or just curious about Base, this README 
 - [Build a perfect onchain app on Base](https://youtu.be/30NG7ilQiqI?si=7UvrY0zo5sT66IjF)  
 - [Building Frames on Base](https://www.youtube.com/live/YwlfgIJK0j8?si=Fmms0FRLKGHMCi9P)  
 
-
+---
 
 ## 🚀 Bootcamp/Hackathons  
 
@@ -58,6 +64,7 @@ Whether you're a developer, researcher, or just curious about Base, this README 
 - [ETHOnline 2023/2024](https://ethglobal.com/events/ethonline2024)  
 - [ETHGlobal New York](https://ethglobal.com/events/newyork2023/prizes/base)  
 
+---
 
 ## 🚀 Bridges  
 
@@ -109,6 +116,8 @@ Whether you're a developer, researcher, or just curious about Base, this README 
 - [**Uniswap**](http://uniswap.com/): The largest decentralized exchange with over $1.6T in trading volume.
 - [**Volmex**](https://volmex.finance/): Offering perpetual futures products based on the Volmex Implied Volatility Indices.
 - [**rhino.fi**](https://app.rhino.fi/bridge?token=ETH): A Layer 2 DeFi aggregator unlocking secure, self-custodial DeFi across 9 chains.
+
+---
 
 ### **Gaming**
 
@@ -198,6 +207,8 @@ Whether you're a developer, researcher, or just curious about Base, this README 
 - [Unlock Protocol](https://unlock-protocol.com/): Unlock is an open-source, collectively owned, community-governed, peer-to-peer system that creates time-based memberships.  
 - [Zora](https://zora.co/): ZORA is a universal media registry protocol. It’s a way for creators to publish creative media, earn money on their work, and have others build and share what they create.  
 
+---
+
 ### **Onramps**  
 
 - [Coinbase Pay](https://www.coinbase.com/cloud/products/pay-sdk): Let your users buy or transfer digital assets with the most trusted name in crypto.  
@@ -206,6 +217,8 @@ Whether you're a developer, researcher, or just curious about Base, this README 
 - [Onramp Money](https://onramp.money/): Onramp.money is a convenient & secure way to convert your FIAT to Web3 money in <60s! We allow your users to buy & sell digital assets with lowest processing fees. Onramp.money can be easily integrated with your global decentralized application (dApp) to smoothly onboard users to purchase multiple digital assets across chains.  
 - [Privy](https://www.privy.io/): Privy is a simple library to onboard all your users to web3, with embedded wallets for web3 newcomers, reliable connectors for web3 natives, and powerful user management.  
 - [Transak](https://transak.com/): Transak is a global web3 payment and onboarding infrastructure provider, facilitating seamless transitions between traditional finance and crypto assets.  
+
+---
 
 ### **Social**  
 
