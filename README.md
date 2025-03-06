@@ -218,6 +218,8 @@ Whether you're a developer, researcher, or just curious about Base, this README 
 - [OAK](https://oak.community/): OAK is a community currency for the People of Oakland.  
 - [Tally](https://www.tally.xyz/): Tally powers the largest DAOs in the Ethereum ecosystem. With Tally, you can decentralize your Protocol, project, L2 and more. Build on Tally for a robust decentralized ecosystem of tooling.  
 
+---
+
 ### **Wallets**  
 
 - [Beam](https://beam.eco/): Beam is a self-custody payments wallet for the mainstream — no download or signup required. It's the easiest way on the planet to send money. Beam works with USDC and ECO (eco.com).  
