@@ -7,7 +7,7 @@ Whether you're a developer, researcher, or just curious about Base, this README 
 ---
 ## 🌍 Ecosystem Map
 
-![Base Ecosystem Map](./get-onchain-with-base/Base Ecosystem Map.png)
+![Base Ecosystem Map](./get-onchain-with-base/Base-Ecosystem-Map.png)
 
 ---
 
