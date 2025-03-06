@@ -7,7 +7,7 @@ Whether you're a developer, researcher, or just curious about Base, this README 
 ---
 
 
-## Socials  
+### **Socials**  
 
 - [Base.org](https://base.org/)  
 - [Base Blog](https://base.mirror.xyz/)  
@@ -22,7 +22,7 @@ Whether you're a developer, researcher, or just curious about Base, this README 
 
 ---
 
-## 📖 Blogs  
+### **📖 Blogs**  
 
 - [Meet Base](https://base.mirror.xyz/jjQnUq_UNTQOk7psnGBFOsShi7FlrRp8xevQUipG_Gk)  
 - [Decentralizing Base with the OP Stack and Optimism](https://base.mirror.xyz/H_KPwV31M7OJT-THUnU7wYjOF16Sy7aWvaEr5cgHi8I)  
@@ -38,7 +38,7 @@ Whether you're a developer, researcher, or just curious about Base, this README 
 
 ---
 
-## 🎥 Videos  
+### **🎥 Videos**  
 
 - [How to run a Base node](https://youtu.be/bLxXiqJ_-gU?si=eqZoBJaW-hPAx1zT)  
 - [Getting started with Base](https://youtu.be/G3sNXEls0HA?si=y5tRBiWlBZ5Tf3ce)  
@@ -51,7 +51,7 @@ Whether you're a developer, researcher, or just curious about Base, this README 
 
 ---
 
-## 🚀 Bootcamp/Hackathons  
+### **🚀 Bootcamp/Hackathons**  
 
 - [Base Bootcamp](https://www.base.org/bootcamp)  
 - [Base Onchain Summer](https://www.base.org/onchainsummer)  
@@ -61,7 +61,7 @@ Whether you're a developer, researcher, or just curious about Base, this README 
 
 ---
 
-## 🚀 Bridges  
+### **🚀 Bridges**  
 
 - [**Across Protocol**](https://across.to/): A leading cross-chain token bridge secured by UMA's optimistic oracle. Optimized for capital efficiency with a single liquidity pool, a competitive relayer landscape, and a no-slippage fee model. Expect secure, fast, and affordable cross-chain token transfers.  
 - [**Axelar**](https://axelar.network/): Enables secure interchain communication, allowing dApp users to interact with any asset, application, or chain with one click—think of it as Stripe for Web3.  
@@ -77,7 +77,7 @@ Whether you're a developer, researcher, or just curious about Base, this README 
 
 ---
 
-## 🏛️ DAOs  
+### **🏛️ DAOs**  
 
 - [**Aragon Project**](https://aragon.org/): Builds flexible and secure tools for launching and managing DAOs. Since 2016, Aragon’s framework has powered 6,000+ DAOs securing over $13B in value for projects like Lido, Decentraland, API3, Aavegotchi, and NFTX.  
 - [**Prophouse**](https://prop.house/): Public infrastructure by Nouns DAO designed to help internet communities incentivize ecosystem development.  
