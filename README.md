@@ -5,11 +5,6 @@ Welcome to **Get Onchain with Base**— your go-to guide for getting started wit
 Whether you're a developer, researcher, or just curious about Base, this README has all the resources you need to start building, learning, and engaging with the Base ecosystem.  
 
 ---
-## 🌍 Ecosystem Map
-
-![Base Ecosystem Map](get-onchain-with-base/Base%20Ecosystem%20Map.png)
-
----
 
 
 ## Socials  
